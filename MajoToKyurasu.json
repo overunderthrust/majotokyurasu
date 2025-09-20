@@ -10,40 +10,7 @@
       "volume": "",
       "last_updated": "1758352330",
       "groups": {
-        "Send Us Pictures of Anime Girls Eating Hamburgers": [
-          "https://cdn.imgchest.com/files/eda076d34f44.jpg",
-          "https://cdn.imgchest.com/files/eb65ce38010c.jpg",
-          "https://cdn.imgchest.com/files/8894159ad87c.jpg",
-          "https://cdn.imgchest.com/files/0822deb73c42.jpg",
-          "https://cdn.imgchest.com/files/db3a33da7a41.jpg",
-          "https://cdn.imgchest.com/files/5d8ac7ea953d.jpg",
-          "https://cdn.imgchest.com/files/09ba15a2cffd.jpg",
-          "https://cdn.imgchest.com/files/82c20da6d00c.jpg",
-          "https://cdn.imgchest.com/files/9f9bb01f5c58.jpg",
-          "https://cdn.imgchest.com/files/1e7e103b7c61.jpg",
-          "https://cdn.imgchest.com/files/a8b182d56118.jpg",
-          "https://cdn.imgchest.com/files/4a380090bd52.jpg",
-          "https://cdn.imgchest.com/files/4b36bf5bc46c.jpg",
-          "https://cdn.imgchest.com/files/e32965caee62.jpg",
-          "https://cdn.imgchest.com/files/88cc839db5f3.jpg",
-          "https://cdn.imgchest.com/files/441af19df62c.jpg",
-          "https://cdn.imgchest.com/files/6b5e1d5140dd.jpg",
-          "https://cdn.imgchest.com/files/be4eca591c76.jpg",
-          "https://cdn.imgchest.com/files/3df6669d26db.jpg",
-          "https://cdn.imgchest.com/files/736f662df1d2.jpg",
-          "https://cdn.imgchest.com/files/f5679b37d1bc.jpg",
-          "https://cdn.imgchest.com/files/ed7bb9d0e064.jpg",
-          "https://cdn.imgchest.com/files/06a084b49481.jpg",
-          "https://cdn.imgchest.com/files/d75a016aae45.jpg",
-          "https://cdn.imgchest.com/files/823a162a4a95.jpg",
-          "https://cdn.imgchest.com/files/43df2f822e67.jpg",
-          "https://cdn.imgchest.com/files/476ab0bacfe0.jpg",
-          "https://cdn.imgchest.com/files/62a85d3b5481.jpg",
-          "https://cdn.imgchest.com/files/97b1f65f6758.jpg",
-          "https://cdn.imgchest.com/files/85f2a80fdd00.jpg",
-          "https://cdn.imgchest.com/files/b48547fe8134.jpg",
-          "https://cdn.imgchest.com/files/3d526043c61e.jpg"
-        ]
+        "Send Us Pictures of Anime Girls Eating Hamburgers": "/proxy/api/imgur/chapter/pFhFpJj"
       }
     },
     "2": {
@@ -51,7 +18,7 @@
       "volume": "",
       "last_updated": "1758352441",
       "groups": {
-        "Send Us Pictures of Anime Girls Eating Hamburgers": "https://files.catbox.moe/i2f4ia.zip"
+        "Send Us Pictures of Anime Girls Eating Hamburgers": "/proxy/api/imgur/chapter/MWaLC3y"
       }
     },
     "3": {
@@ -59,7 +26,7 @@
       "volume": "",
       "last_updated": "1758352481",
       "groups": {
-        "Send Us Pictures of Anime Girls Eating Hamburgers": "https://files.catbox.moe/oamadl.zip"
+        "Send Us Pictures of Anime Girls Eating Hamburgers": "/proxy/api/imgur/chapter/WFsD5Rq"
       }
     },
     "4": {
@@ -67,7 +34,7 @@
       "volume": "",
       "last_updated": "1758352525",
       "groups": {
-        "Send Us Pictures of Anime Girls Eating Hamburgers": "https://files.catbox.moe/88u91o.zip"
+        "Send Us Pictures of Anime Girls Eating Hamburgers": "/proxy/api/imgur/chapter/96cEcnK"
       }
     },
     "5": {
@@ -75,15 +42,7 @@
       "volume": "",
       "last_updated": "1758352561",
       "groups": {
-        "Send Us Pictures of Anime Girls Eating Hamburgers": "https://files.catbox.moe/4al4ag.zip"
-      }
-    },
-    "6": {
-      "title": "Sixth puff \"Witches and Reminiscence\"",
-      "volume": "",
-      "last_updated": "1758352633",
-      "groups": {
-        "Send Us Pictures of Anime Girls Eating Hamburgers": "https://files.catbox.moe/ecxbwq.zip"
+        "Send Us Pictures of Anime Girls Eating Hamburgers": "/proxy/api/imgur/chapter/LeWrIO3"
       }
     }
   }
